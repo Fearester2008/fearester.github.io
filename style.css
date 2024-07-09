@@ -1,0 +1,21 @@
+@font-face 
+{
+    font-family: VCR; /* Гарнитура шрифта */
+    src: url(assets/fonts/vcr.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: Pixel; /* Гарнитура шрифта */
+    src: url(assets/fonts/vcr.ttf); /* Путь к файлу со шрифтом */
+}
+
+#siteName {
+    color: white;
+    position:absolute;
+    top: 15px;
+    left: 565px;
+    font-size: 32px;
+    width: 600px;
+    font-family: VCR;
+}

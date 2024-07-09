@@ -1,0 +1,40 @@
+
+#panel{
+    padding: 30px 660px;
+    background-color:rgb(100, 0, 0);
+    border:none;
+    border-radius: 35px;
+    position: absolute;
+    top: 0px;
+}
+
+#menu
+{
+    padding: 25px 25px;
+    background-color: red;
+    display: flex;
+    border: none;
+    border-radius: 25px;
+    position: absolute;
+    left: 20px;
+    top: 3px;
+}
+
+#siteImage{
+    width: 50px;
+    border: none;
+    border-radius: 25px;
+    position: absolute;
+    left: 20px;
+    top: 3px;
+}
+
+#siteImage:hover{
+    width: 50px;
+    border: none;
+    /*cursor: pointer;*/
+    border-radius: 25px;
+    position: absolute;
+    transform: scale(1.4);
+    transition: 0.5s ease-in-out;
+} 
